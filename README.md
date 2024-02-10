@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdhamSelim23
 - 👀 I’m interested in using different coding langauges and APIs to create fun projects
 - 🌱 I’m currently learning Computer Science and Business at University Twente
-- 📫 How to reach me : Email - adhamselim.uni@gmail.com
+- 📫 How to reach me : Email - adhamselim.uni@gmail.com, [LinkedIn](https://www.linkedin.com/in/adham-selim-a0b253214/)
 
 
 <!---
