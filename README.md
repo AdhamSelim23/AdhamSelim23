@@ -8,6 +8,8 @@
 All repositories and projects will be public soon :)   
 In the meantime, if you would like to view my projects, please contact me and we can set it up!
 
+Please feel free to contact me at any time and I will respond as soon as I can. Thank you!
+
 <!---
 AdhamSelim23/AdhamSelim23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
